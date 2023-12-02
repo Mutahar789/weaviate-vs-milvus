@@ -9,9 +9,9 @@ To replicate this analysis or to conduct your own, follow these steps:
 5. Run the benchmarking scripts to perform the tests.
 
 ## Results
-Build time comparison of weaviate and milvus
+#### Build time comparison of weaviate and milvus
 <img src="plots/build_time.png" alt="color picker" />
 
-Search time comparison of weaviate and milvus
+#### Search time comparison of weaviate and milvus
 <img src="plots/search_time.png" alt="color picker" />
 
