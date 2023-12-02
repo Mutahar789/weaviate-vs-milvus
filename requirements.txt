@@ -1,0 +1,10 @@
+langchain
+huggingface_hub
+transformers
+unstructured==0.7.12
+pypdf
+sentence_transformers
+weaviate-client
+pymilvus==2.2.5
+matplotlib
+setuptools==65.6.3
